@@ -5,7 +5,7 @@ namespace estudiantes {
     // multiplication and division
     // addition and subtraction
     // left to right
-    int students = 6 - 5 + 4 * 3 / 2;
+    int students = 6 - 5 + 4 * (3 / 2);
 }
 
 int main() {
