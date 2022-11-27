@@ -2,6 +2,7 @@
 
 int main()
 {
+    int x = 5;
     float a = 0.12345678901234567890f;
     double b = 0.12345678901234567890;
     char c = 'a';
